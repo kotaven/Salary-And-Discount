@@ -9,8 +9,8 @@ public static void main(String[] args) {
 		{
 			discount=0.25*salary;
 			salary=salary-discount;
-			System.out.println(discount);
-			System.out.println(salary);
+			System.out.println("discount "+discount);
+			System.out.println("salary "+salary);
 		}
 		else
 		{
